@@ -6,6 +6,6 @@ I enjoy running role playing games, and programming with Go.
 
 I'm currently working on:
 - A computer science degree at UWO
-- A portfolio site using HTMX, Tailwind CSS and Go
+- A portfolio site ([maximusslabon.ca](https://maximusslabon.ca)) using HTMX, Tailwind CSS and Go
 - Whatever **[LeetCode](https://leetcode.com/KupaJablek/)** questions strike my fancy
-- **[CheSSH](https://github.com/KupaJablek/CheSSH)** - A secure terminal based chess client to play with your friends
+- A role playing campaign using the [Mausritter](https://mausritter.com/) ruleset 
